@@ -2,14 +2,6 @@
 
 This project implements a back-end API for an e-commerce admin dashboard. The API provides insights into sales, revenue, and inventory status, and also allows the registration of new products.
 
-> 👨‍💻 Take-Home Task  
-> Position: Back-end Developer  
-> Framework: Node.js (Express.js)  
-> Database: MongoDB  
-> API Style: RESTful
-
----
-
 ## 🚀 Features
 
 ### 1. 📊 Sales Status
